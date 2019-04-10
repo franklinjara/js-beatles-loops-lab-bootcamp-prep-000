@@ -4,6 +4,6 @@ function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments) {
   var random = [];
   
   for (var i = 0; i < arrayOfMusicians.length; i++) {
-    random.push(`)
+    random.push(arrayOfMusicians)
   }
 }
