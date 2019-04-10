@@ -23,7 +23,8 @@ function johnLennonFacts(arrayOfFacts) {
   var i = 0;
   
   while (i < arrayOfFacts.length) {
-    return arrayOfFacts[i] + "!!!";
+    newFacts.push(arrayOfFacts[i] + "!!!");
   }
+  return arrayOfFacts[i] + "!!!";
 }
 
